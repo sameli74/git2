@@ -1,0 +1,26 @@
+<annotation>
+	<folder>300by300-resized</folder>
+	<filename>253.jpg</filename>
+	<path>C:\Users\snowwhite\Desktop\Documents\Idea\Datasets\new\phase1\300by300-resized\253.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>80</ymin>
+			<xmax>227</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>
